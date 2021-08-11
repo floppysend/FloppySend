@@ -373,7 +373,7 @@ https://api.floppy.ai/balance
 You can get your X-Api-Key And X-Secret-Hash, from your [account setting](https://app.floppysend.com) page in Api Keys section 
 
 #### Balance Response
-```
+```JSON
 {
     "Result": "Success",
     "Datainfo": [
