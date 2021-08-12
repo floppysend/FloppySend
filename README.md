@@ -31,13 +31,13 @@ FloppySend API applies rate limits for its SMS API, [Read more...](https://flopp
 ### Email to SMS
 Documentation of how to send emails to SMS.
 To use this service, you need to whitelist your company email address or an entire domain, 
-at your [account dashboard](https://app.floppysend.com) for sending SMSes, [Read more...](https://floppysend.com/apiReferences)
+at your [account dashboard](https://app.floppysend.com) for sending SMSes, [Read more...](https://floppysend.com/apiReferences#EmailToSMS)
 
 ### FloppySend Webhook
 
 Webhooks are "user-defined HTTP callbacks". They are usually triggered by some event, such as receiving, failure or rejected messages.
 
 When that event occurs, FloppySend makes an HTTP Post request to the URL configured for the webhook. Users can configure them 
-at [account dashboard](https://app.floppysend.com) >> Webhooks section, [Read more...](https://floppysend.com/apiReferences)
+at [account dashboard](https://app.floppysend.com) >> Webhooks section, [Read more...](https://floppysend.com/apiReferences#Webhook)
 
 
