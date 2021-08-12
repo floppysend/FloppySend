@@ -10,6 +10,15 @@ Use our simple APIs to integrate SMS text messaging, Email and more services wit
 
 [FloppySend](https://floppysend.com/apiReferences) offers a range of APIs to allow programmers to design software to interact and integrate with our service. In some cases, existing software with the necessary capability can simply be configured to use one of our APIs, without any custom coding needed. 
 
+#### FloppySend's APIs services:
+  - [FloppySend SMS API ( New Version )](https://github.com/floppysend/FloppySend-SMS-API-New-Version-)
+  - [FloppySend SMS API ( Old Version )](https://github.com/floppysend/FloppySend-SMS-Legacy-API-Old-Version-)
+  - [FloppySend Balance API](https://github.com/floppysend/FloppySend-Balance-API)
+  - [FloppySend OTP API](https://github.com/floppysend/FloppySend-OTP-API)
+  - [FloppySend HLR API](https://github.com/floppysend/FloppySend-HLR-API)
+  - [FloppySend Number Validation API](https://github.com/floppysend/FloppySend-Number-Validation-API)
+  - [FloppySend Email API](https://github.com/floppysend/FloppySend-Email-API)
+
 
 
 
